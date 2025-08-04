@@ -19,13 +19,32 @@ Findings from this project underscore the potential of decoding naturalistic beh
 
 Dataset Name: Annotated Joints In Long-Term Electrocortiraphy for 12 Human Participants (AJLIE12)
 
+Starter Notebook with Data:
+- https://github.com/neurovium/Neuromatch-AJILE12
+
+Dataset Location:
+- https://github.com/BruntonUWBio/ajile12-nwb-data/tree/main
+- https://dandiarchive.org/dandiset/000055/0.220127.0436
+ 
 Dataset Information: 
+- https://github.com/BruntonUWBio/AJILE-tools?tab=readme-ov-file
+- https://www.bingbrunton.com/data
 - https://www.bingbrunton.com/ajile-readme
 
-Colab Notebook:
+Project Colab Notebook:
 - https://drive.google.com/file/d/1vgrkX204gZPWoe_S_xDgF_E2a4zOcyAw/view?usp=sharing
 
 Project Presentation:
 - https://docs.google.com/presentation/d/1pflveRivBqAMBIECl9RTvInUjpLYvs0Afz-x0-ui2aM/edit?usp=sharing
+
+Literature Reviewed:
+- AJILE12: Long-term naturalistic human intracranial neural recordings and pose, https://www.nature.com/articles/s41597-022-01280-y
+- AJILE Movement Prediction: Multimodal Deep Learning for Natural Human Neural Recordings and Video, https://arxiv.org/abs/1709.05939
+- Decoding Movement From Electrocorticographic Activity: A Review, https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00074/full 
+- Behavioral and Neural Variability of Naturalistic Arm Movements, https://www.eneuro.org/content/8/3/ENEURO.0007-21.2021
+- Mining naturalistic human behaviors in long-term video and neural recordings, https://www.sciencedirect.com/science/article/abs/pii/S0165027021001345?via%3Dihub
+- Beta band oscillations in motor cortex reflect neural population signals that delay movement onset, https://pmc.ncbi.nlm.nih.gov/articles/PMC5468088/?utm_source=chatgpt.com
+- Movement Type Prediction before Its Onset Using Signals from Prefrontal Area: An Electrocorticography Study, https://pmc.ncbi.nlm.nih.gov/articles/PMC4122137/#:~:text=Our%20results%20suggest%20that%20the,movement%20types%20before%20movement%20onset
+- 
 
 
